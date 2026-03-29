@@ -1,4 +1,4 @@
-# Gestor de Tareas IT - Rosario Chamba
+# Aplicación GUI de Lista de Tareas - Rosario Chamba.
 
 ## Descripción
 Este proyecto es una aplicación de escritorio desarrollada en **Python** utilizando la librería **Tkinter**. Permite a los usuarios gestionar sus tareas diarias de forma organizada a través de una interfaz gráfica (GUI) intuitiva.
