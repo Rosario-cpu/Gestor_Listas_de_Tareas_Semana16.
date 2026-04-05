@@ -1,12 +1,11 @@
-import tkinter as tk
-from tkinter import messagebox
-
-
 # +++++++++++++++++++++++++++++++++++++++++++++++++++++++
 # TAREA: APLICACIÓN GUI DE LISTA DE TAREAS PROFESIONAL
 # Estudiante: Rosario Chamba.
 # Universidad Estatal Amazónica.
 # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+import tkinter as tk
+from tkinter import messagebox
 
 # --- LÓGICA Y MANEJADORES DE EVENTOS ---
 
